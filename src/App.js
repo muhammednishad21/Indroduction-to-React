@@ -1,6 +1,6 @@
 import './App.css';
 import React, { useState } from 'react';
-import Reduce from './components/useReduce/Reduce';
+import Reduce from './components/2nd week/Reduce';
 // import Header from './components/Header';
 // import Home from './components/Home';
 // import Hook from './components/Hook';
